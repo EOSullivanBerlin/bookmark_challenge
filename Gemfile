@@ -8,6 +8,7 @@ gem 'sinatra'
 ruby '2.4.0'
 
 group :test do
+  gem 'database_cleaner'
   gem 'capybara'
   gem 'selenium-webdriver'
   gem 'rspec'
