@@ -44,6 +44,3 @@ Troubleshooting
 Credits and acknowledgments
 A changelog (usually for programmers)
 A news section (usually for users)
-
-How its tests work
-----
