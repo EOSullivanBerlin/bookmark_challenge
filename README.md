@@ -1,7 +1,4 @@
 # Bookmark Manager Challange - Makers Week four
-----
-# Description
-----
 A web application connected to a database that will help the user manage and store web links.
 
 ## User Stories
